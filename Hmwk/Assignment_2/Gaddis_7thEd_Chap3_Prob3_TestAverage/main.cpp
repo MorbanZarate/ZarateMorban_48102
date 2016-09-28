@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     //Process/Calculations Here
     
     //Output Located Here
-
+    cout<<setprecision(1)<<fixed<<showpoint<<right;
     cout<<"This program can calculate the average of the five test scores."<<endl;
     cout<<" "<<endl;
     cout<<"Enter test score number 1: "<<endl;
