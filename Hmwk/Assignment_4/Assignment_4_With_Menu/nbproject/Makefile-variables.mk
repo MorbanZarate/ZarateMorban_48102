@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_1-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_1-Windows
-CND_ARTIFACT_NAME_Debug=cpptemplate
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_1-Windows/cpptemplate
+CND_ARTIFACT_NAME_Debug=assignment_4_with_menu
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_1-Windows/assignment_4_with_menu
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_1-Windows/package
-CND_PACKAGE_NAME_Debug=cpptemplate.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_1-Windows/package/cpptemplate.tar
+CND_PACKAGE_NAME_Debug=assignment4withmenu.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_1-Windows/package/assignment4withmenu.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_1-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_1-Windows
-CND_ARTIFACT_NAME_Release=cpptemplate
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_1-Windows/cpptemplate
+CND_ARTIFACT_NAME_Release=assignment_4_with_menu
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_1-Windows/assignment_4_with_menu
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_1-Windows/package
-CND_PACKAGE_NAME_Release=cpptemplate.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_1-Windows/package/cpptemplate.tar
+CND_PACKAGE_NAME_Release=assignment4withmenu.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_1-Windows/package/assignment4withmenu.tar
 #
 # include compiler specific variables
 #
