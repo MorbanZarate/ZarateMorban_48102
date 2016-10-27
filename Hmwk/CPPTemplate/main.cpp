@@ -1,22 +1,26 @@
 /* 
    File:   main
    Author: Morban Zarate
-   Created on October 13, 2016, 1:56 PM
-   Purpose:  
+   Created on October 18, 2016, 12:00 PM
+   Purpose:  Blackjacks!
  */
 
 //System Libraries
+
 #include <iostream>   //Input/Output objects
+
 using namespace std;  //Name-space used in the System Library
 
 //User Libraries
-
+    
 //Global Constants
-
+    
 //Function prototypes
-
+    
 //Execution Begins Here!
+    
 int main(int argc, char** argv) {
+    
     //Declaration of Variables
     
     //Input values
@@ -26,5 +30,6 @@ int main(int argc, char** argv) {
     //Display Output
     
     //Exit Program
+    
     return 0;
 }

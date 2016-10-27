@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_1-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_1-Windows
-CND_ARTIFACT_NAME_Debug=gaddis_7thed_chap5_prob20_guessinggame
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_1-Windows/gaddis_7thed_chap5_prob20_guessinggame
+CND_ARTIFACT_NAME_Debug=project_1
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_1-Windows/project_1
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_1-Windows/package
-CND_PACKAGE_NAME_Debug=gaddis7thedchap5prob20guessinggame.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_1-Windows/package/gaddis7thedchap5prob20guessinggame.tar
+CND_PACKAGE_NAME_Debug=project1.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_1-Windows/package/project1.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_1-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_1-Windows
-CND_ARTIFACT_NAME_Release=gaddis_7thed_chap5_prob20_guessinggame
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_1-Windows/gaddis_7thed_chap5_prob20_guessinggame
+CND_ARTIFACT_NAME_Release=project_1
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_1-Windows/project_1
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_1-Windows/package
-CND_PACKAGE_NAME_Release=gaddis7thedchap5prob20guessinggame.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_1-Windows/package/gaddis7thedchap5prob20guessinggame.tar
+CND_PACKAGE_NAME_Release=project1.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_1-Windows/package/project1.tar
 #
 # include compiler specific variables
 #
